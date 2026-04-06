@@ -6,7 +6,7 @@
 
 ## About
 
-From the "peaceful" land of the Philippines. Full-stack developer specializing in PHP, Python, HTML, and Java. Focused on building practical, student-centered tools with clean cyberpunk-inspired interfaces.
+From the "peaceful" land of the Philippines. Full-stack developer specializing in PHP, Python, HTML, and Java. Focused on building practical, student-centered tools with clean interfaces.
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@ From the "peaceful" land of the Philippines. Full-stack developer specializing i
 
 AI-powered conversational assistant built with Python, Streamlit, and Google Gemini AI. Designed to provide 24/7 academic support for ZDSPGC Tigbao students.
 
-- Google Gemini 1.5 Flash integration for natural language responses
+- Google Gemini 3 Preview integration for natural language responses
 - Campus-specific knowledge base for assignments and resources
 - Zero infrastructure cost via Streamlit Cloud deployment
 - Responsive design optimized for desktop and mobile
