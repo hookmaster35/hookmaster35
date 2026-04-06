@@ -1,4 +1,4 @@
-# Kaieru Miggz
+# Miggz Avenido
 
 > "Pinakamaayo sa tanang kalibutan"
 
@@ -6,7 +6,7 @@
 
 ## About
 
-Student at Zamboanga del Sur Provincial Government College — Tigbao. Full-stack developer specializing in PHP, Python, HTML, and Java. Focused on building practical, student-centered tools with clean cyberpunk-inspired interfaces.
+From the "peaceful" land of the Philippines. Full-stack developer specializing in PHP, Python, HTML, and Java. Focused on building practical, student-centered tools with clean cyberpunk-inspired interfaces.
 
 ## Tech Stack
 
